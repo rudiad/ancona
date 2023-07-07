@@ -9,9 +9,9 @@
         color: #363636;
         flex-direction: column;
         display: flex;
-        background: url('./public/assets/background-class.png') bottom right no-repeat;
-        /* background: url('./public/assets/background-class-rainbow.png') bottom 60px right no-repeat; */
-        /* background: url('./public/assets/background-class-rainbow-alt.png') bottom 60px right no-repeat; */
+        background: url('/assets/background-class.png') bottom right no-repeat;
+        /* background: url('/assets/background-class-rainbow.png') bottom 60px right no-repeat; */
+        /* background: url('/assets/background-class-rainbow-alt.png') bottom 60px right no-repeat; */
     }
 
     .header, .footer {
@@ -172,18 +172,18 @@
     
   <div class="header">
       <div class="logo-group">
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace.png" /> -->
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace-ver2.png" /> -->
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace-ver3.png" /> -->
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace-ver4.png" /> -->
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace-ver5.png" /> -->
-          <!-- <img class="logo" src="./public/assets/ancona-logo-image-trace-ver3.png" /> -->
-          <img class="logo" src="./public/assets/ancona-logo-image-trace-ver8.png" />
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace.png" /> -->
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace-ver2.png" /> -->
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace-ver3.png" /> -->
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace-ver4.png" /> -->
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace-ver5.png" /> -->
+          <!-- <img class="logo" src="/assets/ancona-logo-image-trace-ver3.png" /> -->
+          <img class="logo" src="/assets/ancona-logo-image-trace-ver8.png" />
 
           <div class="title">Ancona Montesorri School</div>
       </div>
       <div class="contact-group">
-          <img class="contact-icon" src="./public/assets/contact-icon.png" />
+          <img class="contact-icon" src="/assets/contact-icon.png" />
           <div class="contact">Contact Staff</div>
       </div>
   </div>
@@ -223,7 +223,7 @@
           
           <div class="col col-3">
               <h2>Photo Gallery</h2>
-              <img class="gallery-still" src="./public/assets/gallery-still.jpg" />
+              <img class="gallery-still" src="/assets/gallery-still.jpg" />
               <a href="">SEE GALLERY</a>
           </div>
       </div>
@@ -232,7 +232,7 @@
 
   <div class="footer">
       <div class="footer-links">
-          <a href="https://mybrightwheel.com"><img src="./public/assets/custom_avatar-1626993963.png" />Brightwheel</a>
+          <a href="https://mybrightwheel.com"><img src="/assets/custom_avatar-1626993963.png" />Brightwheel</a>
           <span class="divider">|</span>
           <a href="">Directions</a>
           <span class="divider">|</span>
